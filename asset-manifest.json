@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/groupyab/static/css/main.4eaa36fd.css",
-    "main.js": "/groupyab/static/js/main.b080fcfd.js",
+    "main.js": "/groupyab/static/js/main.59dfaedb.js",
     "index.html": "/groupyab/index.html",
     "main.4eaa36fd.css.map": "/groupyab/static/css/main.4eaa36fd.css.map",
-    "main.b080fcfd.js.map": "/groupyab/static/js/main.b080fcfd.js.map"
+    "main.59dfaedb.js.map": "/groupyab/static/js/main.59dfaedb.js.map"
   },
   "entrypoints": [
     "static/css/main.4eaa36fd.css",
-    "static/js/main.b080fcfd.js"
+    "static/js/main.59dfaedb.js"
   ]
 }
