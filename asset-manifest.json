@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/groupyab/static/css/main.4eaa36fd.css",
+    "main.js": "/groupyab/static/js/main.b080fcfd.js",
+    "index.html": "/groupyab/index.html",
+    "main.4eaa36fd.css.map": "/groupyab/static/css/main.4eaa36fd.css.map",
+    "main.b080fcfd.js.map": "/groupyab/static/js/main.b080fcfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eaa36fd.css",
+    "static/js/main.b080fcfd.js"
+  ]
+}
